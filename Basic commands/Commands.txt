@@ -1,0 +1,9 @@
+mkdir - To create a directory
+vi - To edit a file
+cat - To view a text file 
+cat >> <file name>- To insert into a text file 
+ls - To list a file
+la -a  -To list all file (hidden)
+cd - To change directory
+grep <text> - To  search a Text in a file
+man - To view the manaual
