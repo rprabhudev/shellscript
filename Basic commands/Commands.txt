@@ -7,3 +7,12 @@ la -a  -To list all file (hidden)
 cd - To change directory
 grep <text> - To  search a Text in a file
 man - To view the manaual
+vi - text editor
+pwd - to show the presnt working directory
+cd - to vhange directory
+cd .. - to get back to the previous directory
+cd / - to get back to root directory
+rm <file name> - to remove a file
+head <file name > - to display first 10 lines of the file
+tail <file name > - to display the last 10 lines of the file
+chmod <permission> <file name> - to change the permission for the file
