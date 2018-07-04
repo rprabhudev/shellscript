@@ -16,3 +16,13 @@ rm <file name> - to remove a file
 head <file name > - to display first 10 lines of the file
 tail <file name > - to display the last 10 lines of the file
 chmod <permission> <file name> - to change the permission for the file
+
+ps— todisplay your currently active processes
+top— to display all running processes
+kill pid— to kill process id pid
+kill -9 pid — to force kill process id pid
+
+shutdown —to shut down machine
+reboot —to restart machine
+date — to show the current date and time
+whoami —to who you are logged in as

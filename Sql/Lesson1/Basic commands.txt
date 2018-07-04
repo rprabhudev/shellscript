@@ -1,5 +1,0 @@
-create - to create a database 
-insert - to populate a database 
-select - to select the database
-update - to update the exisiting database 
-delete - to delete some content in the database 
